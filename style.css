@@ -1,0 +1,7 @@
+h3{
+    font-size: 25px !important;
+    border: 10px solid rgb(2, 68, 126);
+}
+canvas{
+    border: 4px black solid;
+}
